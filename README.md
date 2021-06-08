@@ -1,2 +1,2 @@
-# cosine-similarity-example
-Computation of Cosine similarity example through Python, scikit-learn, and NLTK.
+# TFIDF and Cosine Similarity Example
+Computation of TFIDF and Cosine similarity example through Python, scikit-learn, and NLTK.
